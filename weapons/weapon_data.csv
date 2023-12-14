@@ -1,0 +1,103 @@
+Name,Type,Damage,Speed,Accuracy,Range,Price
+Battle Rifle,assault-rifles,41,52,42,45,"497,500"
+Tactical SMG,machine-guns,28,80,35,30,"325,000"
+WM 29 Pistol,handguns,36,40,50,35,N/A
+Candy Cane,melee,20,10,N/A,1,N/A
+Service Carbine,assault-rifles,39,63,55,45,"370,000"
+Precision Rifle,sniper-rifles,88,27,70,95,"450,000"
+Heavy Rifle,assault-rifles,40,50,40,45,"450,000"
+Compact EMP Launcher,heavy,95,10,15,55,"525,000"
+Perico Pistol,handguns,80,15,30,35,N/A
+Combat Shotgun,shotguns,77,50,25,15,"295,000"
+Military Rifle,assault-rifles,38,55,45,45,"397,500"
+Navy Revolver,handguns,70,25,60,35,N/A
+Ceramic Pistol,handguns,32,44,36,20,"20,000"
+Widowmaker,heavy,30,100,40,55,"449,000"
+Unholy Hellbringer,machine-guns,55,65,45,60,"449,000"
+Up-n-Atomizer,handguns,80,10,10,50,"399,000"
+Stone Hatchet,melee,30,15,N/A,0,N/A
+Marksman Rifle Mk II,sniper-rifles,70,40,80,90,"149,000"
+Bullpup Rifle Mk II,assault-rifles,35,72,45,45,"105,750"
+Special Carbine Mk II,assault-rifles,34,65,55,40,"135,000"
+Pump Shotgun Mk II,shotguns,67,20,30,20,"82,500"
+Double-Action Revolver,handguns,70,35,65,20,N/A
+Heavy Revolver Mk II,handguns,75,30,65,35,"99,000"
+SNS Pistol Mk II,handguns,30,40,40,20,"79,575"
+Heavy Sniper Mk II,sniper-rifles,98,20,90,100,"165,375"
+Carbine Rifle Mk II,assault-rifles,36,65,55,45,"107,500"
+Assault Rifle Mk II,assault-rifles,33,60,45,45,"98,750"
+Combat MG Mk II,machine-guns,57,65,45,60,"119,000"
+SMG Mk II,machine-guns,22,55,40,35,"85,500"
+Pistol Mk II,handguns,38,40,40,25,"73,750"
+Battle Axe,melee,15,15,N/A,0,"9,500"
+Pipe Wrench,melee,10,15,N/A,0,"7,150"
+Pool Cue,melee,20,10,N/A,0,"6,250"
+Pipe Bomb,thrown,85,10,35,15,500
+Compact Grenade Launcher,heavy,95,10,15,55,"45,000"
+Mini SMG,machine-guns,22,84,33,30,"8,900"
+Sweeper Shotgun,shotguns,70,45,22,20,"14,900"
+Compact Rifle,assault-rifles,36,60,35,45,"14,650"
+Double Barrel Shotgun,shotguns,98,25,15,10,"15,450"
+Switchblade,melee,15,20,N/A,0,"1,950"
+Heavy Revolver,handguns,70,20,65,35,"5,900"
+Flashlight,melee,10,15,N/A,0,"5,750"
+Machete,melee,15,15,N/A,0,"8,900"
+Machine Pistol,machine-guns,28,70,40,30,"6,250"
+Knuckle Dusters,melee,10,20,N/A,1,"7,500"
+Marksman Pistol,handguns,80,15,30,35,"4,350"
+Combat PDW,machine-guns,25,50,45,38,"11,750"
+Flare Gun,handguns,20,10,30,10,"3,750"
+Snowball,thrown,1,10,10,0,N/A
+Proximity Mine,thrown,90,10,30,20,"1,000"
+Homing Launcher,heavy,95,5,25,75,"75,000"
+Hatchet,melee,15,15,N/A,0,750
+Railgun,heavy,90,25,20,70,"730,000"
+Marksman Rifle,sniper-rifles,70,40,80,90,"15,750"
+Heavy Shotgun,shotguns,85,45,30,25,"13,550"
+Firework Launcher,heavy,45,5,12,60,N/A
+Musket,shotguns,97,10,65,85,"21,400"
+Antique Cavalry Dagger,melee,20,20,N/A,2,"2,000"
+Vintage Pistol,handguns,35,40,40,25,"3,450"
+Bullpup Rifle,assault-rifles,32,70,45,45,"14,500"
+Special Carbine,assault-rifles,34,65,55,40,"14,750"
+Heavy Pistol,handguns,40,40,50,35,"3,750"
+Gusenberg Sweeper,machine-guns,34,65,38,56,"14,600"
+Broken Bottle,melee,20,15,N/A,1,300
+SNS Pistol,handguns,30,40,40,20,"2,750"
+Remote Sniper,sniper-rifles,96,60,10,100,N/A
+Jerry Can,thrown,0,10,30,1,100
+Flare,thrown,0,10,10,25,"8,000"
+Ball,thrown,0,10,10,0,N/A
+Golf Club,melee,20,10,N/A,1,N/A
+Crowbar,melee,10,15,N/A,1,N/A
+Baseball Bat,melee,20,10,N/A,1,N/A
+Hammer,melee,10,15,N/A,1,500
+Nightstick,melee,10,15,N/A,1,400
+Knife,melee,15,20,N/A,1,400
+Unarmed (Fist),melee,5,20,N/A,1,N/A
+Molotov,thrown,50,20,20,8,200
+Tear Gas,thrown,10,20,10,15,150
+Sticky Bomb,thrown,95,10,30,10,600
+Grenade,thrown,95,20,10,15,250
+Minigun,heavy,30,100,40,55,"47,000"
+RPG (Rocket Launcher),heavy,100,5,10,70,"26,250"
+Grenade Launcher,heavy,95,20,10,50,"32,400"
+Heavy Sniper,sniper-rifles,98,20,90,100,"38,150"
+Sniper Rifle,sniper-rifles,96,25,70,95,"20,000"
+Advanced Rifle,assault-rifles,34,70,50,45,"14,250"
+Carbine Rifle,assault-rifles,32,65,55,45,"13,000"
+Assault Rifle,assault-rifles,30,60,45,45,"8,550"
+Combat MG,machine-guns,55,65,45,60,"14,800"
+MG,machine-guns,50,60,40,60,"13,500"
+Assault SMG,machine-guns,23,55,45,40,"12,550"
+SMG,machine-guns,22,55,40,35,"7,500"
+Micro SMG,machine-guns,21,60,30,25,"3,750"
+Bullpup Shotgun,shotguns,67,20,30,20,"8,000"
+Assault Shotgun,shotguns,77,50,25,15,"10,000"
+Pump Shotgun,shotguns,67,20,30,20,"3,500"
+Sawed-Off Shotgun,shotguns,96,20,20,15,0
+Stun Gun,handguns,1,10,40,5,"375,000"
+Pistol .50,handguns,51,40,55,35,"3,900"
+AP Pistol,handguns,26,80,35,30,"5,000"
+Combat Pistol,handguns,27,40,50,30,"3,200"
+Pistol,handguns,26,40,40,25,"2,500"
